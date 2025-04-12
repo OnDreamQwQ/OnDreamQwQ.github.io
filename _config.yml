@@ -30,7 +30,7 @@ twitter_username: ondreamqwq
 github_username:  OnDreamQwQ
 
 # Build settings
-theme: cayman
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
