@@ -30,7 +30,7 @@ twitter_username: ondreamqwq
 github_username:  OnDreamQwQ
 
 # Build settings
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
