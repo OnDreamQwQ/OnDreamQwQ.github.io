@@ -6,5 +6,6 @@ permalink: /about/
 
 基于Jekyll构建
 
-资料链接:
+一些主页链接：
+[X]
 
