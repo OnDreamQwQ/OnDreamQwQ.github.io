@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 万梦的Blog
+title: 万梦的Page
 email: wanmeng46@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -30,7 +30,7 @@ twitter_username: ondreamqwq
 github_username:  OnDreamQwQ
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minimal
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
