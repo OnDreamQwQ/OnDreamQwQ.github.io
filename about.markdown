@@ -27,6 +27,7 @@ permalink: /about/
 - [NGL](https://ngl.link/ondreamfur) - 匿名消息  
 - [Steam](https://steamcommunity.com/profiles/76561199252880281/)  
 - [Twitch](https://twitch.tv/ondreamfur)  
+- [Tiktok](https://www.tiktok.com/@ondreamfur)
 
 ### 联系方式/赞助
 
