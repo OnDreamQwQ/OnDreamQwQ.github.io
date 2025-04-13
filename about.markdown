@@ -28,6 +28,8 @@ permalink: /about/
 - [Steam](https://steamcommunity.com/profiles/76561199252880281/)  
 - [Twitch](https://twitch.tv/ondreamfur)  
 - [Tiktok](https://www.tiktok.com/@ondreamfur)
+- [Pixiv](https://www.pixiv.net/users/110913727/)
+- [e621](https://e621.net/users/1955950)
 
 ### 联系方式/赞助
 
