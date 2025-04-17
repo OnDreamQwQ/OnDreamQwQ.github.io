@@ -3,8 +3,21 @@ layout: page
 title: About
 permalink: /about/
 ---
+## About
 
-基于 Jekyll 构建
+🏠现居金华市永康市 | 💬中文/English | 🇺🇳世界人权支持者，☮️认同普世价值，🏳️‍🌈LGBT友好 | **🚫不键政！!！不🈷️！拒绝骚扰** | 🔞我的社交媒体里可能会有NSFW内容. | **🐱Furry** | INFP | 😢无法承受情绪....呜 | 男 | 双性恋，偏同性恋 
+
+以下瞎写 ~~（也许？暂时？~~
+
+玩Minecraft、Mindustry、原神、崩坏星穹铁道、SCPSL....（可能会更新
+
+OIer（很菜，且不怎么喜欢），玩Linux，开发者，动画师（？，矢量设计，画师，玩摇滚，鼓手，运维，视效，摄影，编曲
+
+喜欢电子乐（Phonk,Synthwave...），合成器wwwwww
+
+喜欢 __梦核__ 等.
+
+25.4.17: 双相，不善社交，易崩溃QWQ
 
 ## 一些链接
 
@@ -30,6 +43,10 @@ permalink: /about/
 - [Tiktok](https://www.tiktok.com/@ondreamfur)
 - [Pixiv](https://www.pixiv.net/users/110913727/)
 - [e621](https://e621.net/users/1955950)
+- [Threads](https://www.threads.net/@ondreamfur)
+- [Tumblr](https://www.tumblr.com/ondreamfur?source=share)
+- [Pinterest](https://pin.it/5zvLtnCnH)
+- [DeviantArt](https://www.deviantart.com/ondreamfur)
 
 ### 联系方式/赞助
 
@@ -39,6 +56,11 @@ permalink: /about/
 - [Matrix](https://matrix.to/#/@ondreamfur:matrix.org)  
 - [Skype](https://join.skype.com/invite/sXI435gJaDZZ)  
 - [Telegram](https://t.me/ondreamfurry)  
+- [Signal](https://signal.me/#euTxic76AERpaTjxSegz6Zw8b5KdXugqeyrbX1XiYRMzwHdo1iZ59Fz6KXpsentreb)
 - [爱发电](https://afdian.com/a/ondreamfur)  
 - [Ko-Fi](https://ko-fi.com/ondreamfur)  
 - Mail of Ontai: ontaibox@outlook.com
+
+
+
+基于 Jekyll 构建
